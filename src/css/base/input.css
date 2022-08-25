@@ -1,0 +1,62 @@
+input {
+  font-family: Roboto, sans-serif;
+  outline: none;
+}
+
+.ms-input {
+  height: 100%;
+  border: 1px solid #e7e8e9;
+  border-radius: 3.5px;
+  background: #fff;
+  min-height: 36px;
+  align-items: center;
+  overflow: hidden;
+}
+
+.ms-input:hover {
+  border: 1px solid #02a3ec;
+}
+
+.ms-input:focus-within {
+  border: 1px solid #02a3ec;
+}
+
+.ms-input:focus {
+  border: 1px solid #02a3ec;
+}
+
+.ms-input-item {
+  height: 100%;
+  border: none;
+  width: 100%;
+  padding: 0 12px;
+}
+
+[required] {
+  border-color: #ff4747 !important;
+}
+.ms-checkbox .ms-checkbox--input {
+  height: inherit;
+}
+.ms-checkbox .checkmark {
+  top: 0;
+}
+.checkmark {
+  position: absolute;
+  left: 0;
+  height: 26px;
+  width: 22px;
+}
+::-webkit-input-placeholder {
+  /* Edge */
+  opacity: 0.7;
+}
+
+:-ms-input-placeholder {
+  /* Internet Explorer */
+  opacity: 0.7;
+}
+
+::placeholder {
+  opacity: 0.7;
+}

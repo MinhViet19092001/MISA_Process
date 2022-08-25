@@ -1,0 +1,16 @@
+.ms-con-dropdown {
+  position: relative;
+  display: inline-block;
+  border: 0;
+  cursor: pointer;
+  padding: 0 !important;
+  color: var(--text-primary-color);
+}
+
+.ms-con-dropdown {
+  pointer-events: none;
+}
+
+:root {
+  --text-primary-color: #171b2a;
+}

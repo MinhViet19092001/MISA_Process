@@ -1,0 +1,80 @@
+@import url("./base/popup.css");
+@import url("./base/checkbox.css");
+@import url("./base/button.css");
+@import url("./base/avatar.css");
+
+.popup-update-user .ms-popup--background + div {
+  background: rgb(255, 255, 255);
+  width: 600px;
+  min-width: 500px;
+  height: 372px;
+  flex-direction: column;
+}
+.con-ms-popup .ms-popup {
+  position: relative;
+  z-index: 100;
+  width: 600px;
+  max-width: calc(100% - 30px);
+  max-height: calc(100% - 4px);
+  border-radius: 6px;
+  box-shadow: 0 5px 20px 0 rgb(0 0 0 / 10%);
+  background: #fff;
+  -webkit-animation: rebound 0.3s;
+  animation: rebound 0.3s;
+  overflow: visible;
+}
+.ms-popup--content {
+  padding: 24px;
+}
+span.required {
+  color: #e54848;
+}
+.popup-update-user .container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 1px 0 0 32px;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  height: 100%;
+}
+.con-slot-label {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+}
+.con-slot-label {
+  text-overflow: ellipsis !important;
+  display: -webkit-box !important;
+  -webkit-box-orient: vertical !important;
+  font-weight: 400;
+}
+.ms-checkbox:hover .checkmark:not(.disabled) {
+  border-radius: 50%;
+  background-color: #02a3ec !important;
+}
+.con-slot-label:hover {
+  color: #02a3ec !important;
+}
+.borderFooter {
+  border-top: 1px solid #e7e8e9;
+}
+.popup-update-header {
+  height: 53px;
+}
+.popup-update-header header {
+  height: 53px;
+  width: 600px;
+}
+
+.popup-update-user .ms-popup--title h2 span {
+  letter-spacing: 0.576px;
+  font-size: 24px;
+  color: rgb(33, 33, 33);
+  font-weight: 500;
+}

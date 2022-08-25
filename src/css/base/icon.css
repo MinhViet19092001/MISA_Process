@@ -1,0 +1,217 @@
+.icon-hidden {
+  display: none;
+}
+
+.icon-run-process {
+  width: 20px;
+  height: 20px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-position: -136px -97px;
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-position: -136px -97px;
+  background-color: #fff;
+}
+
+.icon-plus {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: -240px 0px;
+  background-color: #fff;
+  mask-repeat: no-repeat;
+  mask-position: -240px 0px;
+  mask-image: url("../../assets/Icon.de5bb0db.svg");
+}
+
+.icon-tab {
+  margin-right: 8px;
+}
+
+.icon-user {
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: -336px -48px;
+  width: 24px;
+  height: 24px;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+  mask-position: -336px -48px;
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+}
+
+.icon-protect {
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: -48px -72px;
+  mask-position: -48px -72px;
+  width: 24px;
+  height: 24px;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-multiple-user {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: -72px -24px;
+  mask-position: -72px -24px;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+.icon-share-link {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-repeat: no-repeat;
+  mask-position: -96px -72px;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-setting {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg");
+  mask-image: url("../../assets/Icon.de5bb0db.svg");
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: -264px -144px;
+  mask-position: -264px -144px;
+  background-color: #606474 !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-chevron-down {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg");
+  -webkit-mask-position: -144px -24px;
+  mask-image: url("../../assets/Icon.de5bb0db.svg");
+  mask-position: -144px -24px;
+  -webkit-mask-repeat: no-repeat;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-chevron-left {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg");
+  -webkit-mask-position: -72px -24px;
+  mask-image: url("../../assets/Icon.de5bb0db.svg");
+  mask-position: -72px -24px;
+  -webkit-mask-repeat: no-repeat;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-chevron-right {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg");
+  -webkit-mask-position: -96px -24px;
+  mask-image: url("../../assets/Icon.de5bb0db.svg");
+  mask-position: -96px -24px;
+  -webkit-mask-repeat: no-repeat;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-close {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg");
+  -webkit-mask-position: -216px -24px;
+  mask-image: url("../../assets/Icon.de5bb0db.svg");
+  mask-position: -216px -24px;
+  -webkit-mask-repeat: no-repeat;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+.icon-drag {
+  width: 24px;
+  height: 24px;
+  -webkit-mask-position: -488px -1px;
+  mask-position: -488px -1px;
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-repeat: no-repeat;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-checkbox-primary {
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-position: -512px 2px;
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-position: -512px 2px;
+  -webkit-mask-repeat: no-repeat;
+  background-color: #02a3ec !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-checkbox-uncheck {
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-position: -532px 2px;
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-position: -532px 2px;
+  -webkit-mask-repeat: no-repeat;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+}
+
+.icon-pencil {
+  width: 24px !important;
+  height: 24px !important;
+  background: url("../../assets/Icon.de5bb0db.svg") -216px 0 no-repeat !important;
+}
+
+.icon-delete {
+  width: 24px !important;
+  height: 24px !important;
+  -webkit-mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  mask-image: url("../../assets/Icon_process.1401a69c.svg");
+  -webkit-mask-position: -264px 0px;
+  -webkit-mask-repeat: no-repeat;
+  background-color: #de1e1e !important;
+  mask-repeat: no-repeat;
+  mask-position: -264px 0px;
+}
+
+.dx-dropdowneditor-icon {
+  margin-right: 0;
+  background-color: #666 !important;
+}
+
+.dx-dropdowneditor-icon,
+.dx-dropdowneditor.dx-dropdowneditor-active .dx-dropdowneditor-icon {
+  width: 20px !important;
+  height: 22px !important;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg") !important;
+  mask-image: url("../../assets/Icon.de5bb0db.svg") !important;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: -144px -24px;
+  background-color: #686c7b !important;
+  mask-repeat: no-repeat;
+  mask-position: -144px -24px;
+}
+
+.icon-check {
+  width: 20px;
+  height: 24px;
+  -webkit-mask-image: url("../../assets/Icon.de5bb0db.svg");
+  mask-image: url("../../assets/Icon.de5bb0db.svg");
+  -webkit-mask-position: -48px -96px;
+  mask-position: -48px -96px;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  background-color: #02a3ec !important;
+  margin-left: 8px;
+}

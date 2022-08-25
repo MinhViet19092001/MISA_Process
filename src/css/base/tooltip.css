@@ -1,0 +1,20 @@
+.dx-overlay-content {
+  min-width: 50px !important;
+}
+.dx-tooltip-wrapper .dx-overlay-content {
+  background-color: #454545 !important;
+  color: #fff;
+}
+.dx-popover-wrapper .dx-popover-arrow::after {
+  background-color: #454545 !important;
+}
+.dx-popup-content {
+  font-size: 14px !important;
+}
+
+.dx-popup-wrapper > .dx-overlay-content {
+  border: none !important;
+}
+.dx-tooltip-wrapper.dx-popover-wrapper .dx-popover-arrow::after {
+  border: none !important;
+}
