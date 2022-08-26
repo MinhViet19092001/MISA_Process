@@ -1,0 +1,16 @@
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\bin\Debug\net6.0\MISA.Core.deps.json
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\bin\Debug\net6.0\MISA.Core.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\bin\Debug\net6.0\MISA.Core.pdb
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.csproj.AssemblyReference.cache
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.Resources.Status.resources
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.csproj.GenerateResource.cache
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.AssemblyInfoInputs.cache
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.AssemblyInfo.cs
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.csproj.CoreCompileInputs.cache
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\refint\MISA.Core.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.pdb
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\ref\MISA.Core.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.Resources.ValidateUser.resources
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Core\obj\Debug\net6.0\MISA.Core.Resources.ResourcesException.resources

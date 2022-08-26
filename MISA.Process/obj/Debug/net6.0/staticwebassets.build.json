@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DFLecEtnbHrRLu4VselJ5pcOdkYMCqNnZ+lnJr2jJXk=",
+  "Source": "MISA.Process.Api",
+  "BasePath": "_content/MISA.Process.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

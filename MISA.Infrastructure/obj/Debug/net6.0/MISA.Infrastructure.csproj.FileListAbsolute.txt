@@ -1,0 +1,15 @@
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\bin\Debug\net6.0\MISA.Infrastructure.deps.json
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\bin\Debug\net6.0\MISA.Infrastructure.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\bin\Debug\net6.0\MISA.Infrastructure.pdb
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\bin\Debug\net6.0\MISA.Core.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\bin\Debug\net6.0\MISA.Core.pdb
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.csproj.AssemblyReference.cache
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.AssemblyInfoInputs.cache
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.AssemblyInfo.cs
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.csproj.CoreCompileInputs.cache
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.csproj.CopyComplete
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\refint\MISA.Infrastructure.dll
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\MISA.Infrastructure.pdb
+E:\MISA\GD2\backend\api\MISA.Process\MISA.Infrastructure\obj\Debug\net6.0\ref\MISA.Infrastructure.dll
